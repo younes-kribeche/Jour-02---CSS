@@ -1,0 +1,124 @@
+/*Police écriture titre et speech*/
+.protest-strike-regular {
+    font-family: "Protest Strike", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  /*Police écriture infosperso*/
+.tektur-uniquifier {
+    font-family: "Tektur", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    background-color: rgb(255, 255, 255);
+}
+
+main {
+    border-style: dashed;
+    background-color: rgba(11, 87, 50, 0.904);
+    font-family: "Protest Strike";
+}
+
+h1 {
+    font-family: "Protest Strike";
+    color: rgb(54, 49, 49);
+    text-align: center;
+    font-size: 70px;
+}
+  
+.infosperso1 {
+    width: 27%;
+    float: left;
+    padding: 5px;
+    color: aliceblue;
+    text-align: left;
+    font-family: "Tektur", sans-serif;
+    font-size: 15px;
+    margin-right: 1%;
+}
+
+.infosperso2 {
+    width: 25%;
+    float: right;
+    padding: 5px;
+    color: aliceblue;
+    text-align: right;
+    font-family: "Tektur", sans-serif;
+    font-size: 15px;
+}
+
+.speech {  
+    margin-bottom:20px;
+    background-color: rgba(0, 0, 0, 0.200);
+    color: rgb(211, 235, 208);
+    text-align: center;
+    font-family: "Protest Strike";
+    font-size: 25px;
+}
+  
+.exppro {   
+    background-color: rgba(0, 0, 0, 0.200);
+    color: aliceblue;
+    font-family: "Protest Strike";
+    font-size: 20px;
+}
+
+.etudes {
+    background-color: rgba(0, 0, 0, 0.200);
+    color: aliceblue;
+    font-family: "Protest Strike";
+    font-size: 20px;
+}
+
+
+h2 {
+    background-color: rgba(#226745);
+    color: rgb(54, 49, 49);
+    text-align: center;
+    font-size: 35px; 
+}
+
+
+img {
+    background-color: #226745;
+    max-width: 30%;
+    height: auto;  
+}
+
+
+.flstudio {
+    background-color: rgb(198, 0, 0);
+    float: left;
+    width: 25%;
+    padding: 5px;
+}
+
+.microsoftword { 
+    background-color: rgb(198, 0, 0);
+    float: left;
+    width: 25%;
+    padding: 5px;
+}
+
+.powerpoint {
+    background-color: rgb(198, 0, 0);
+    float: right;
+    width: 25%;
+    padding: 5px;
+}
+
+
+footer {
+    font-family: "Protest Strike";
+    color: aliceblue;
+    float: inline-end;
+}
